@@ -1,0 +1,19 @@
+Generating public/private rsa key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/mstelmach/.ssh/mezzanine.
+Your public key has been saved in /home/mstelmach/.ssh/mezzanine.pub.
+The key fingerprint is:
+fa:a8:13:d5:52:32:80:ec:63:b2:cf:74:f0:d5:3a:da 
+The key's randomart image is:
++--[ RSA 2048]----+
+| . ...           |
+|  o   o .        |
+| .     *         |
+|. =   + o        |
+| + + o oS        |
+|. . + o.         |
+| + . +..         |
+|  o o Eo         |
+|    .o. .        |
++-----------------+
